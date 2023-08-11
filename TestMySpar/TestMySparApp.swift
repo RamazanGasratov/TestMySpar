@@ -11,7 +11,7 @@ import SwiftUI
 struct TestMySparApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SparView()
         }
     }
 }
